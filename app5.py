@@ -1,1 +1,1 @@
-print("simple_cal")
+print("This is simple calculator_created By TILAK")
